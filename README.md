@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @angry-mage
+- 👋 Hi, I’m @idle-static
 - 😄 Pronouns: She/Her
 - 👀 I’m interested in programming, video games (development and enjoyment!), baking, and art (I prefer digital media but I mostly work in traditional!)
 - 🌱 I’m currently learning software development at Keyin, we're covering topics like Python, Java, JavaScript, postgreSQL and MongoDB for data stores, Node.js, and Express!
